@@ -1,0 +1,1 @@
+数据库用的是mysql数据库，库名是test,表名是User;有两个字段，id,自增长；username,varchar.
